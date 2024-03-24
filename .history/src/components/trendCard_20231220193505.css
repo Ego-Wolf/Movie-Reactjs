@@ -1,0 +1,12 @@
+.trend-card {
+    position: relative;
+}
+
+.trend-card a {
+    position: relative;
+    text-decoration: none;
+    background: var(--primary);
+    color: #ffffff;
+    font-size: 1rem;
+    text-transform: uppercase;
+}

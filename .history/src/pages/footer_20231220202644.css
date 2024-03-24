@@ -1,0 +1,26 @@
+
+.footer .footer-top
+
+.footer .footer-top .footer-contact p {
+    line-height: 26;
+    color: #ffffff;
+}
+
+
+.footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+    color: #ffffff;
+}
+
+.footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.footer .credits a {
+    text-decoration: none;
+    color: var(--primary);
+}

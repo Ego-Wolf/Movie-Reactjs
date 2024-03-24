@@ -1,0 +1,12 @@
+.blog article {
+    background: transparent;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    padding: 30px;
+    height: 100%;
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.blog article:hover {
+    box
+}

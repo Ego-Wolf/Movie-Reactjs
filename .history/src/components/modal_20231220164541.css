@@ -1,0 +1,9 @@
+.movieModal {
+    position: absolute;
+    content: '';
+    top: 125px;
+    left: 100px;
+    right: 100px;
+    bottom: 0;
+    background: rgba(red, green, blue, alpha)
+}

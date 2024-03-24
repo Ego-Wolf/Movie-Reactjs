@@ -1,0 +1,8 @@
+.movieModal {
+    position: absolute;
+    content: '';
+    top: 125px;
+    left: 100px;
+    right: 100px;
+    
+}
